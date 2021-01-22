@@ -1,7 +1,7 @@
 package me.mang00.JavaStudy.oop;
 
 class Total {
-    int hp, damage; //전역변수는 초깃값이 0이다.
+    int hp, damage; //전역변수 -> 초깃값이 0이다.
 
 //    public void print() {
 //        System.out.println(this);
