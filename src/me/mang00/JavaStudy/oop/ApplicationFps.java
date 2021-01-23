@@ -60,6 +60,8 @@ public class ApplicationFps {
 
     public static void main(String[] args) {
 
+        int count = 0;
+
         Player ar = new Player("AR", 20);
 //        ar.setHp(100);
 //        ar.setDamage(20);
