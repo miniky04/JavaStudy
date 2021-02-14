@@ -1,5 +1,7 @@
 package me.mang00.JavaStudy.array;
 
+import java.util.ArrayList;
+
 public class ArrayEx5 {
     public static void main(String[] args) {
 
